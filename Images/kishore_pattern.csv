@@ -1,0 +1,204 @@
+image_id|reasoning|inference
+443333fcb4fbae96d74fcaf60f1c2247.jpg|"Here's how to solve this spatial reasoning puzzle:
+
+**1. Analyze the Net:**
+
+The puzzle presents a net – a flat representation of a cube that can be folded to form a three-dimensional shape.  Notice how the squares are arranged.  Each square on the net will become a face of the cube.
+
+**2. Identify Adjacent Faces:**
+
+Look at which squares are directly next to each other in the net.  These will be adjacent faces on the cube. For instance, the apple and the banana are adjacent. The banana and the cherries are adjacent, and so on.
+
+**3. Visualize the Folding:**
+
+Imagine folding the net into a cube.  Try to visualize where each face will end up relative to the others based on their adjacency in the net.
+
+**4. Eliminate Incorrect Options:**
+
+Let's examine the options provided:
+
+* **A:** This is incorrect because the plum and apple are adjacent in A, but not in the net.
+
+* **B:** This is a good candidate. Let's check its consistency with the net.
+
+* **C:** This option is incorrect because the grapes and the cherries are adjacent in C, but not in the net.  
+
+* **D:** This is incorrect because the banana and the plum are adjacent in D, but not in the net.
+
+**5. Verify the Correct Option:**
+
+Option B correctly represents the cube formed by folding the net.  If you were to carefully fold the net, you'd find that the apple, banana, cherry, and grape locations match the positions shown in option B.  The plum is opposite the grapes, and the orange is opposite the apple, which is also accurate based on the net.
+
+**Therefore, the answer is B.**"|
+a4826610c96f7482aa2f206bcf01b261.jpg|"The solution is door number **3**. Here's the reasoning:
+
+1. **Focus on the key:** The key has a unique, wavy, and slightly dripping design at its bottom.
+
+2. **Match the keyhole:**  We need to find a keyhole that mirrors this wavy, dripping design.  The shape of the keyhole and the design on the key must match.
+
+3. **Eliminate possibilities:** Doors 1, 2, and 4 all have keyholes with simpler, straight, or differently curved designs.
+
+4. **Identify the match:** Only door number 3 possesses a keyhole with the same wavy, dripping design as the key's bottom part.
+
+
+Therefore, the key fits into door number 3."|
+ac44eb1052202275e40ef90e85f75837.jpg|"The answer is **A. ENEGTILLEICNNE**.
+
+Here's the step-by-step reasoning:
+
+The puzzle asks which option most closely resembles the word ""INTELLIGENCE"".  It's not about spelling, but about the order of letters. Notice that the letters aren't in alphabetical order, nor is it a simple rearrangement.
+
+Let's analyze the provided options:
+
+
+* **Option A (ENEGTILLEICNNE):** This option contains all the letters from ""INTELLIGENCE"" with a slight alteration in the order. A closer look reveals that many of the letter pairs and trios maintain the same proximity in the original word.
+
+* **Option B (INTELLGIENCE):** This is a very minor variation, missing just one 'I'.  This is very close, but not as close as Option A.
+
+* **Option C (INTELLIGIENCE):** Like Option B, this is a close variation, but with the extra 'I'.
+
+* **Option D (INTELLIGENOE):**  This option replaces the 'C' with an 'O' and also changes some ordering.
+
+Option A is the best fit because it retains the general groupings and order of letters while only shifting them slightly. The others are simple spelling changes rather than shifting the letters' positions more subtly like option A."|
+b65c1080c2a466a9356f7af54c550c98.jpg|"The correct shadow is number **4**. Here's why:
+
+1. **Shape of the Crest:** The bird in the original image has a distinctive, upward-curving crest.  Shadow 4 is the only one that accurately reflects this shape.  The other shadows have crests that are either too flat, pointed downwards, or otherwise misshapen.
+
+2. **Body Proportions:**  Compare the relative lengths of the beak, body, and tail in the original bird with the shadows.  Shadow 4 most closely matches the proportion of those features.
+
+3. **Orientation:** The original bird is positioned with its head slightly turned. Shadow 4 correctly reflects this slight angle, while others are more straight-on.
+
+Therefore, by carefully examining the shape, proportions, and orientation of the crest and the body, we can determine that shadow 4 is the correct match."|
+b9b50d563fd0a63272a776b5201c1286.jpg|"The correct answer is **A**. Here's why:
+
+1. **Analyze the Stack:** The image shows a stack of rings in a classic stacking toy. Observe the colors and order of the rings from top to bottom: blue, black, yellow, blue, black, yellow, blue, black.
+
+2. **Visualize the Top View:** Imagine looking directly down on the toy.  The topmost ring is blue.  Underneath it, a black ring partially obscures the blue.
+
+3. **Match to the Options:**  Option A accurately reflects this top view.  The largest circle is blue (representing the top ring), and a smaller, darker circle (black) is partially visible in the center.
+
+The other options are incorrect because they don't accurately represent the concentric circles (or the order of colors) visible when looking at the top of the stack."|
+c184721075861aa19c0bb67f78e33eab.jpg|"The correct shadow is **number 1**. Here's why:
+
+1. **Orientation:** The parrot in the image is facing to the left, with its wing slightly raised.
+
+2. **Shadow Matching:**  Only shadow number 1 accurately reflects this posture and orientation. The other shadows either show the parrot facing the wrong way or with a different wing position."|
+c29aa454eb4b9e9fc83149072163ff2e.jpg|"The correct answer is **A**. Here's why:
+
+1. **Leaf Structure:** The image shows a tree branch with three leaves.  Each leaf has a distinct shape with pointed lobes.
+
+2. **Shadow Principles:**  Shadows mimic the shape of the object casting them.  They should maintain the same number of leaves, the general shape of the leaves, and the branching structure.
+
+3. **Eliminating Incorrect Options:**
+
+   * **B:** While it has three leaves, the shape of the leaves is different; they lack the distinctive pointed lobes.
+   * **C:** This shadow only has two leaves.
+   * **D:** This shadow has five leaves, significantly more than the original image.
+
+4. **Matching Shadow:** Option A accurately replicates the three leaves with their pointed lobes and the structure of the branch from the original image, making it the correct shadow."|
+d45eb3fe459f78b2c443e1c599d9b790.jpg|"The correct answer is **A**. Here's how we solve it step-by-step:
+
+1. **Analyze the patterns:** Observe the 3x3 grid. Each cell contains a square, a circle, and a triangle. Each shape can be either black, gray, or white.
+
+2. **Identify the rules:** Look for repeating sequences or patterns within rows, columns, or diagonals. Notice that:
+    * **Shapes repeat in a specific order:** The sequence of shapes (square, circle, triangle) remains consistent in each row.
+    * **Colors alternate:**  Within each shape type, the colors (black, gray, white) cycle through a specific sequence.
+
+3. **Apply the rules to the missing cell:** The question mark is in the middle row, middle column. Let's look at the pattern in that row:
+    * **Squares:** Black, gray, black
+    * **Circles:** White, ?, white
+    * **Triangles:** Gray, ?, gray
+
+4. **Deduce the missing colors:** Following the alternating color pattern, the missing circle should be gray, and the missing triangle should be white. This leads us to option A.
+
+
+Therefore, option A perfectly matches the established patterns of shape sequence and color alternation."|
+d912eab970235fd16716fbddc0be7f3f.jpg|"Here's how to solve this ""Find the Twins"" puzzle:
+
+**1. Systematic Comparison:**  The key is to compare each fish meticulously. Don't just glance; examine every detail. Start by comparing fish 1 to the rest, then fish 2 to the remaining ones, and so on.
+
+**2. Focus on Subtle Differences:**  The differences are subtle. Look closely at:
+
+* **Stripe Thickness and Spacing:** Are the stripes consistently thick and evenly spaced?
+* **Fins:**  Are the fins the same size and shape?  Pay attention to the small details within the fins.
+* **Eye Shape and Position:**  Is the eye perfectly round, and is it in the exact same location?
+* **Body Shape:**  Are there any slight variations in the overall body curvature?
+
+**3. The Solution:** After careful comparison, you'll find that **fish 1 and fish 4 are identical**.  They have the same stripe pattern, fin shapes, eye placement and overall body shape.
+
+Therefore, the answer is fish number 1 and 4."|
+e05c561d4f47893c415e5f88ee4a7f79.jpg|"The correct answer is **A**. Here's why:
+
+1. **Analyze the Target Shape:** The main shape features a square with a plus sign-like cutout in its center.  Note that the “arms” of the plus are not all the same length.
+
+2. **Examine the Options:** Each option shows a possible arrangement of blue squares.  We need to find the option which, when the blocks are mentally rotated, matches the central shape.
+
+3. **Mental Rotation and Elimination:**
+   * **B, C, D, and E:**  When trying to mentally rotate these options to fit the target shape, it's clear that none of them can perfectly match the original shape's arm length and layout of the spaces.
+
+4. **A is the Solution:** Option A, when rotated 90 degrees counterclockwise, perfectly matches the target shape's layout. Each square and space aligns perfectly.
+
+
+Therefore, the solution to this puzzle is **A**."|
+e3cef5f6cc8766aa7bf1f04748316905.jpg|"The solution is **a**. Here's how we arrive at that answer:
+
+1. **Identify the Units:**  The puzzle uses colored squares as units.  Each square is either red or green or blue.
+
+2. **Addition of Shapes:** The puzzle presents an addition problem with two shapes on the left-hand side. We need to combine them to get a resultant shape.
+
+3. **Combining Shapes:** If you imagine the two shapes on the left as being placed on top of each other to combine them, the overlap is where the color of the bottom shape takes precedence. If a square doesn't overlap, the color remains the same.
+
+4. **Applying the Rule to Solve:** Let's trace how this works in detail:
+
+* **Blue Square:** The blue square at the top left remains blue since there's no overlap.
+* **Green Square (top right):**  The green square remains green because it's not overlapped.
+* **Green Square (bottom):** The green square at the bottom is overlapped by the red square from the shape on the right.
+* **Red Squares (bottom):**  The red squares on the bottom are overlapped.
+* **Combined Shape:**  When you mentally combine the two, the resultant shape matches option 'a' exactly.
+
+Therefore, the answer is **a**."|
+e7349257ea82c7b55c8760cad1bc4fac.jpg|"The correct answer is **A**. Here's why:
+
+**Step 1: Analyze the Pattern**
+
+Observe the sequence of images on the top row. Notice that the pattern involves the following changes:
+
+
+* **The blue circle's position changes.** In the first image, the circle is on the left side. In the second image, it moves to the top. This seems consistent across the two shown.
+
+
+* **The arrow directions change.** The arrows rotate. The vertical arrow consistently points opposite the circle's location.
+
+
+**Step 2: Apply the Pattern**
+
+Following the same pattern, in the third image (the one with the question mark), the circle would theoretically move to the right.
+
+
+**Step 3: Evaluate Options**
+
+Option A is the only one that fits this change in the circle's location and preserves the inverse relationship between the vertical arrow and the circle's position.
+
+Therefore, the solution is A."|
+ebbca2d44626a7b5c4f52a20062297e3.jpg|"The correct answer is **a**. Here's why:
+
+1. **Imagine looking down:**  The question asks for the top view.  Picture yourself directly above the pyramid looking straight down.
+
+2. **Identify the colors:**  From this top-down perspective, you would see the colored lines intersecting. The blue line would be seen running from top-left to bottom-right. The orange line would run from top-right to bottom-left. The green and red lines are also in a similar diagonal orientation.
+
+3. **Match the pattern:** Only option 'a' accurately represents the intersecting lines as seen from the top.  The other options either have incorrect color arrangements or incorrect diagonal placement of the lines.
+
+Therefore, only option 'a' correctly shows the top view of the pyramid."|
+f25c668e8eb70c5a92484c6a0e32c6aa.jpg|"The solution to this visual puzzle is **a**. Here's why:
+
+**1. Identify the Pattern:**  Observe the top three squares.  Notice that each color moves clockwise one quadrant in the next square.
+
+* **Square 1:** Red, Green, Yellow, Blue (starting position)
+* **Square 2:** Blue moves to top-right; Red, Yellow, Blue, Green
+* **Square 3:** Green moves to top-right; Yellow, Blue, Green, Red
+
+**2. Apply the Pattern:** Following this clockwise rotation, the missing square's coloring should be derived from the pattern.
+
+The bottom-left square (Square 3) has Yellow, Blue, Green, Red. Therefore, the next square in the sequence (the empty one) should have:  Blue, Green, Red, Yellow.
+
+**3. Select the Correct Answer:** Only option 'a' matches this sequence: Blue, Green, Red, Yellow."|
